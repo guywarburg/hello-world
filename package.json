@@ -48,7 +48,7 @@
     "semver": "5.5.1",
     "sequelize": "4.44.3",
     "sequelize-replace-enum-postgres": "^1.5.0",
-    "Hallllo": "*"
+    "Hallllo": "1.2.3"
   },
   "release": {
     "prepare": [
