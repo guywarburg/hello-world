@@ -1,5 +1,6 @@
 {
   "name": "hello-world-service",
+  "author": "yo-yo-yo",
   "version": "0.0.0-placeholder",
   "description": "Hello World",
   "devDependencies": {
